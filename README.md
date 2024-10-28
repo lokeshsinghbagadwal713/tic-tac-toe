@@ -1,1 +1,1 @@
-lokeshsinghbagadwal713/tic-tac-toe
+tic-tac-toe
